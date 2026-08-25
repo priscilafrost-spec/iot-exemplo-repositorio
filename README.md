@@ -6,7 +6,7 @@ Docente: Amanda Paul Dull
 
 Esse repositório serve de exemplo para a entrega de atividades da matéria de IoT.
 
-[![Simular no Tinkercad]([https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/gzcCF6GhFek-acendedor-de-led-3000?sharecode=oJlNj4IwWi4yJ-hbwXRkpEibq6Wei9GqDSi0qM2b9bM](https://github.com/priscilafrost-spec/iot-exemplo-repositorio/blob/3a4edce82ce96d867987f3e6c5aa4c9943378347/aula%204.png))
+[![Simular no Tinkercad]([[https://img.shields.io/badge/Simular%20no-Tinkercad-orange?style=for-the-badge&logo=autodesk)](https://www.tinkercad.com/things/gzcCF6GhFek-acendedor-de-led-3000?sharecode=oJlNj4IwWi4yJ-hbwXRkpEibq6Wei9GqDSi0qM2b9bM](https://github.com/priscilafrost-spec/iot-exemplo-repositorio/blob/3a4edce82ce96d867987f3e6c5aa4c9943378347/aula%204.png)](https://github.com/priscilafrost-spec/iot-exemplo-repositorio/blob/2dea30604541e24fb98f2c2ccfac8d7c1433335d/aula_4.png)])
 
 ## Enunciado: Vamos ligar o LED!
 
